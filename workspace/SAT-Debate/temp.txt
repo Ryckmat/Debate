@@ -1,0 +1,3 @@
+(not b)
+(not d)
+(c and a)
