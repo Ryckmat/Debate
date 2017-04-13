@@ -1,0 +1,20 @@
+Player 1
+214
+0
+Player 2
+221
+221
+Time
+Sound enabled
+0 0 1 1
+          !!!! Formulas !!!!
+  < Referee >
+          !!!! Arguments !!!!
+  < Referee >
+          !!!! Requetes !!!!
+  < Player 1 >
+Assert
+ui
+  < Player 2 >
+Assert
+c
