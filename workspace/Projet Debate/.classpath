@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Debate.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jlatexmath-0.9.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jscheme-7.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/kawa-1.11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/org.sat4j.core-src.jar"/>
+	<classpathentry kind="lib" path="dist/lib/org.sat4j.core.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

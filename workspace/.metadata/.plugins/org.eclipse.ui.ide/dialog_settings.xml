@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/matthieuryckman/Desktop/Debate/workspace/Debate25sept2012"/>
+		<item value="/Users/matthieuryckman/Desktop/Debate/workspace/Debate 2"/>
+		<item value="/Users/matthieuryckman/Desktop/Debate/workspace/Debate7juin"/>
 		<item value="/home/ryckmat/workspace/Debate"/>
 	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
 </section>
